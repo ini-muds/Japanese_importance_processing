@@ -6,6 +6,7 @@
   
 ## 動作環境
 Python = 3.9.10  
+最新版だと対応していないライブラリもあるのでご注意ください。  
 本研究ではPythonのライブラリ管理にはpipを用いております。  
 また、termextract別途インストールの必要があります。[こちら](https://github.com/kanjirz50/termextract)をご参照ください。  
 ## 研究概要
